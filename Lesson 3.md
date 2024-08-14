@@ -1,4 +1,4 @@
-# Lesson 2
+# Lesson 3
 
 1. На VM WinServer создал ssh server и запустил его 
 ![image](https://github.com/user-attachments/assets/c83618b8-dffb-4198-8a1a-5b4b4a37bf00)
