@@ -11,6 +11,10 @@ p.s. У вас есть базы данных, AD DC, Cisco ASA, FTP / NFC serve
 routers, Web server ISS/ Nginx, внешние и внутренние ресурсы
 
 
+![image](https://github.com/user-attachments/assets/e1e16f1d-22d0-4269-90c1-f6ad9cb08298)
+
+
+
 ### 1. Проникновение в инфраструктуру и компрометация двух целей
 
 #### Цель 1: Скомпрометировать компьютер главного бухгалтера
