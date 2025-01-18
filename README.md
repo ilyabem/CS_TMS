@@ -4,11 +4,11 @@
 
 > Изучить логи и примеры инцидентов, дать подробные ответы на данные вопросы:
 
-[Link to SOC Questions](new-Diplom/docs/SOC Practical_.docx)
+[Link to SOC Questions](new-Diplom/docs/SOC%20Practical_.docx)
 
 Ответы:
 
-> [Link to SOC Answers](new-Diplom/docs/SOC Practical_ Answers.docx)
+> [Link to SOC Answers](new-Diplom/docs/SOC%20Practical_%20Answers.docx)
 
 ## Создать скрипт на любом языке, который в информативном виде будет запускать скрипт с установкой:
 
