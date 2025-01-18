@@ -4,11 +4,11 @@
 
 > Изучить логи и примеры инцидентов, дать подробные ответы на данные вопросы:
 
-[Link to SOC Questions](new-Diplom/docs/CVE-2021-41773.docx)
+[Link to SOC Questions](new-Diplom/docs/SOC Practical_.docx)
 
 Ответы:
 
-> [Link to SOC Answers](new-Diplom/docs/SOC.txt)
+> [Link to SOC Answers](new-Diplom/docs/SOC Practical_ Answers.docx)
 
 ## Создать скрипт на любом языке, который в информативном виде будет запускать скрипт с установкой:
 
@@ -146,4 +146,4 @@ else:
 
 Ответы:
 
-> [Link CVE](new-Diplom/docs/CVE-2021-41773.txt)
+> [Link CVE](new-Diplom/docs/CVE-2021-41773.docx)
