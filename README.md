@@ -147,3 +147,19 @@ else:
 Ответы:
 
 > [Link CVE](new-Diplom/docs/CVE-2021-41773.docx)
+
+## Установить SIEM систему (на ваше усмотрение Wazuh, ELK\EFK, cloud splunk)
+
+Загрузите и запустите помощник установки Wazuh.
+
+```bash
+curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+```
+
+**Авторизация**
+![img](new-Diplom/images/2.jpg)
+
+**Домашняя страница**
+![img](new-Diplom/images/1.jpg)
+
+
